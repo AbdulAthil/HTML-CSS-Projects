@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+.main-container{
+    background-color: white;
+    padding: 20px;
+    width: 25%;
+    position:relative;
+    margin: 70px 600px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.main-container:hover{
+    background-color: whitesmoke;
+}
+.in{
+    background-color:whitesmoke;
+    border-radius: 0px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+.in:hover{
+    background-color: white;
+}
+.button{
+    width: 100px;
+    height: 25px;
+    font-size: medium;
+    margin-left: 100px;
+    background-color: black;
+    color: whitesmoke;
+}
+.button:hover{
+    background-color: red;
+}

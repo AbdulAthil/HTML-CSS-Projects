@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+.main-container{
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    width: 20%;
+    position:relative;
+    margin: 70px 600px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.main-container:hover{
+    background-color: midnightblue;
+}
+.in{
+    background-color:lightgray;
+    border-radius: 0px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+.in:hover{
+    background-color: white;
+}
+.submit{
+    width: 150px;
+    height: 25px;
+    font-size: 10pt;
+    margin-left: 20px;
+    background-color: black;
+    color: whitesmoke;
+}
+.submit:hover{
+    background-color: green;
+}
+.reset{
+    width: 80px;
+    height: 25px;
+    font-size: 10pt;
+    margin-left: 20px;
+    background-color: black;
+    color: whitesmoke;
+}
+.reset:hover{
+    background-color: red;
+}
+a{
+    text-decoration: none;
+    font-size: 10pt;
+    color: whitesmoke;
+}

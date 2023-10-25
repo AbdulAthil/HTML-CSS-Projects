@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML class</title>
+    <link rel="stylesheet" href="page5.css">
+</head>
+<body>
+    <form action="page6.html" method="get">
+        <div class="main-container">
+            <h3><u>Accademic details</u></h3>
+            <div>
+                <p>SSLC</p>
+                <label for="sslc">school Name:</label>
+                <input class="in" type="text" id="sslc" name="sslc" required>
+            </div><br>
+            <div>
+                <label for="sslc">percentage:</label>
+                <input class="in" type="number" id="sslc" name="sslc" required>
+            </div><br>
+            <div>
+                <p>HSC</p>
+                <label for="hsc">school Name:</label>
+                <input class="in" type="text" id="hsc" name="hsc" required>
+            </div><br>
+            <div>
+                <label for="hsc">percentage:</label>
+                <input class="in" type="number" id="hsc" name="hsc" required>
+            </div><br>
+            <div>
+                <p>DEGREE</p>
+                <select>
+                    <option>select your Degree</option>
+                    <option value="be">B.E / B.TECH</option>
+                    <option value="me">M.E / M.TECH</option>
+                    <option value="ba">B.A</option>
+                    <option value="ma">M.A</option>
+                    <option value="bsc">B.SC</option>
+                    <option value="msc">M.SC</option>
+                    <option value="bba">BBA</option>
+                    <option value="mba">MBA</option>
+                    <option value="bca">BCA</option>
+                    <option value="mca">MCA</option>
+                </select>
+            </div><br>
+            <div>
+                <label for="department">Department:</label>
+                <input class="in" type="text" id="department" name="department" required>
+            </div><br>
+            <div>
+                <label for="college">College Name:</label>
+                <input class="in" type="text" id="college" name="college" required>
+            </div><br>
+            <div>
+                <label for="completion">Completion Year:</label>
+                <input type="year" id="completion" name="completion" required>
+            </div><br>
+            <p><b><i>Upload Your Resume</i></b></p>
+            <input type="file" id="file" name="resume" required><br><br>
+            <button class="submit" type="submit">Submit</button>
+            <button class="reset" type="reset">Reset</button>
+        </div>
+    </form>
+</body>
+</html>

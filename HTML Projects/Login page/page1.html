@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML class</title>
+    <link rel="stylesheet" href="page1.css">
+</head>
+<body>
+    <form action="page4.html" method="get">
+        <div class="main-container">
+            <h3>Login into your account</h3>
+            <div>
+                <label for="username">UserName</label>
+                <input class="in" type="text" id="username" name="username" required>
+            </div><br>
+            <div>
+                <label for="password">Password</label>
+                <input class="in" type="password" id="password" name="password" minlength="8" required>
+            </div><br>
+            <button class="submit" type="submit">Submit</button>
+            <button class="reset" type="reset">Forget Password</button><br><br>
+            <p>New User? <a href="http://127.0.0.1:5500/page2.html">Create an account</a></p>
+        </div>
+    </form>
+</body>
+</html>

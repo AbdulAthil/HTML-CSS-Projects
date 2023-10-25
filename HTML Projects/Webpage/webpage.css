@@ -1,0 +1,176 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.main-container{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.navigation-panel{
+    padding-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.navigation-leftpanel{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.front{
+    width: 20px;
+    height: 20px;
+}
+.mentor{
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.navigation-rightpanel{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.top2{
+    padding-left: 20px;
+    font-size: small;
+    font-style: italic;
+    font-weight: bold;
+}
+.pro{
+    margin-top: 12px;
+    margin-left: 5px;
+    font-size:x-small;
+    font-style: italic;
+    font-weight: bold;
+    background-color: navy;
+    color: white;
+    width: 40px;
+    height: 16px;
+}
+.pro:hover{
+    background-color:blue;
+}
+.github{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 150px;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    margin-right: 30px;
+}
+.github:hover{
+    background-color:red;
+}
+.log{
+    margin-left: 10px;
+    text-align: center;
+    font-size: x-small;
+    font-weight: bolder;
+    font-style: italic;
+}
+.git{
+    width: 11px;
+    height: 11px;
+    padding-left: 8px;
+}
+.body-panel{
+    display: flex;
+    flex-direction: row;
+}
+.body-leftpanel{
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+}
+.text11{
+    font-size:25pt;
+    color: blue;
+}
+.text12{
+    font-size: 14pt;
+}
+.github1{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    border: 1px solid red;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 150px;
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    align-items: center;
+    margin-right: 30px;
+}
+.github1:hover{
+    background-color:black;
+}
+.log1{
+    margin-left: 10px;
+    text-align: center;
+    font-size: x-small;
+    font-weight: bolder;
+    font-style: italic;
+}
+.git1{
+    width: 11px;
+    height: 11px;
+    padding-left: 8px;
+}
+.body-rightpanel{
+    margin-left: 350px;
+}
+.work{
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+}
+
+.body-panel1{
+    text-align: center;
+    padding: 0px;
+    margin-top: 28px;
+    font-weight: bold;
+}
+.foot{
+    display: flex;
+    flex-direction: row;
+    margin-top: 43px;
+}
+.foot1{
+    width:25%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    align-items: center;
+}
+.te1{
+    font-weight: bolder;
+    font-size: large;
+}
+.te2{
+    text-align: center;
+}
+.download{
+    width: 40px;
+    height: 40px;
+}
