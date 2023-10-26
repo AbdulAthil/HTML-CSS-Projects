@@ -26,5 +26,5 @@ In here,i have done various projects using HTML and CSS along with Animation. Th
   * User can change the color and style of this template by editing the CSS according to their   preferences.
 
 ## Webpage
-  * In this project, i have created a webpage similar to an institue which offers  front end development courses to the students.
+  * In this project, i have created a webpage similar to an institue which offers front end development courses to the students.
   
