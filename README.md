@@ -14,7 +14,7 @@ In here,i have done various projects using HTML and CSS along with Animation. Th
 
 ## Login Page
   * In this project, i have created a login page similar to job application or exam application portals.
-  * If the user already has an account,they can login into their account,if not they has to crate a account. They can login after they create an account.
+  * If the user already has an account,they can directly login into their account,if not they has to crate a account. They can login after they create an account.
   * The first page has a form which requires the user's personal details.
   * The second page has a form which requires the user's academic details.
   * After completing two pages,it will take them to the last page(completion page).
