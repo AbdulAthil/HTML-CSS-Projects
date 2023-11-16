@@ -3,7 +3,7 @@
 In here, I have done various projects using HTML and CSS along with Animation. The projects are,
 
 ## Amazon Prime Login Page Clone with Animation
-  * In this project,i have created a clone of amazon prime login page with different color and also with animations.
+  * In this project, I have created a clone of amazon prime login page with different color and also with animations.
   * If the user enters a details which satisfies the program condition and login,it will take them to the amazon prime official page.
   * And the user also can create an amazon account.
   
