@@ -8,7 +8,7 @@ In here, I have done various projects using HTML and CSS along with Animation. T
   * And the user also can create an amazon account.
   
 ## Amazon Webpage Clone
-  * In this project, i have created a clone webpage of amazon shopping page with minimum amount of products.
+  * In this project, I have created a clone webpage of amazon shopping page with minimum amount of products.
   * But user can't buy or wishlist any products and the price isn't mention with the products.
   * And the user can also go to the amazon prime login page which i have created already and by entering required details,the page will connects to the official amazon prime video page.
 
