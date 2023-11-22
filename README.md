@@ -13,7 +13,7 @@ In here, I have done various projects using HTML and CSS along with Animation. T
   * And the user can also go to the amazon prime login page which i have created already and by entering required details,the page will connects to the official amazon prime video page.
 
 ## Login Page
-  * In this project, i have created a login page similar to job application or exam application portals.
+  * In this project, I have created a login page similar to job application or exam application portals.
   * If the user already has an account,they can directly login into their account,if not they has to crate a account. They can login after they create an account.
   * The first page has a form which requires the user's personal details.
   * The second page has a form which requires the user's academic details.
