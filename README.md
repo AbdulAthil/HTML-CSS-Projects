@@ -20,7 +20,7 @@ In here, i have done various projects using HTML and CSS along with Animation. T
   * After completing two pages,it will take them to the last page(completion page).
 
 ## Resume Template
-  * In this project, I have created a resume template with my own personal and academic details.
+  * In this project, i have created a resume template with my own personal and academic details.
   * This template is a single page resume template.
   * Anyone can edit this template to create their own resume by their needs.
   * User can change the color and style of this template by editing the CSS according to their   preferences.
