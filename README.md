@@ -1,6 +1,6 @@
 # HTML-CSS-Projects
 
-In here, i have done various projects using HTML and CSS along with Animation. The projects are,
+In here, I have done various projects using HTML and CSS along with Animation. The projects are,
 
 ## Amazon Prime Login Page Clone with Animation
   * In this project, i have created a clone of amazon prime login page with different color and also with animations.
